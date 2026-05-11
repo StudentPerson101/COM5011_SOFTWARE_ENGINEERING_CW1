@@ -1,11 +1,12 @@
 # COM5011_SOFTWARE_ENGINEERING_CW1
 
 Assignment file correspondents:
+____________________________________________________
 
 6.1 - "p6 - requirements.txt"
 
 6.2 - "p6 - specifications (partial).txt"
-
+____________________________________________________
 
 7.1 - "p7 - 1-d - fire services.png"
 
@@ -18,16 +19,16 @@ Assignment file correspondents:
 7.5 - "p7 - 5-d - consolidated diagram (Dh).png"
 
 7.6 - "p7 - 6 - use case descriptions.txt"
-
+____________________________________________________
 
 8
-
+____________________________________________________
 
 9.1 - "p9 - 1 - requirements validation strategy"
 
 9.2 - "p9 - 2 - requirements management strategy.txt"
 
 9.3 - "p9 - 3 4 5 - extras.txt"
-
+____________________________________________________
 
 10
