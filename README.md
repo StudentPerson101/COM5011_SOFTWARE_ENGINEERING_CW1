@@ -1,12 +1,29 @@
 # COM5011_SOFTWARE_ENGINEERING_CW1
 
+The full web app is contained in the zip file "FASAM Prototype Package (zip).zip".
+
+After downloading and extracting its contents, click on either the text file "README - START HERE.txt" to read the instructions first or skip by clicking on the batch file "Setup FASAM Prototype.bat" to start the auto install process.
+
+You will then be asked:
+
+1. whether you want to create a desktop shortcut to the app
+2. whether you want to install Python3.12 (if you don't have it already)
+3. a Python venv will be auutomatically created within the app folder
+4. Django will be installed into that Python venv
+5. you'll be asked if you want to auto-start the server
+6. after clicking "y" (yes), enter http://127.0.0.1:8000/ into your preferred browser
+
+To end the server, click CTRL+C in the terminal running the server.
+
+
+
 Tasks Contents:
 ---------
 Task-6: requirements & specifications
 
 Task-7: UML use case diagrams & use case descriptions
 
-Task-8: prototype (DOWNLOAD THIS) & prototype screenshots
+Task-8: "FASAM Prototype Package (zip).zip" (DOWNLOAD THIS) & prototype screenshots
 
 Task-9: requirement strategies
 
