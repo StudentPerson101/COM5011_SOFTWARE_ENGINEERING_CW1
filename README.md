@@ -55,7 +55,7 @@ ____________________________________________________
 7.6 - "p7 - 6 - use case descriptions.txt"
 ____________________________________________________
 
-8.0 - "FASAM Prototype Package" (THIS IS THE WEB APP, DOWNLOAD WHOLE FOLDER)
+8.0 - "FASAM Prototype Package (zip).zip" (THIS IS THE WEB APP, DOWNLOAD WHOLE FOLDER)
 
 8.1 - "p8 - prototype screenshots - dashboard (1).png"
 
