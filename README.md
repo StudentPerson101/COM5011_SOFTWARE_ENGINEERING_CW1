@@ -8,15 +8,15 @@ ____________________________________________________
 6.2 - "p6 - specifications (partial).txt"
 ____________________________________________________
 
-7.1 - "p7 - 1-d - fire services.png"
+7.1 - "p7 - D1 - fire services.png"
 
-7.2 - "p7 - 2-d - security services.png"
+7.2 - "p7 - D2 - security services.png"
 
-7.3 - "p7 - 3-d - system operator manual.png"
+7.3 - "p7 - D3 - system operator manual.png"
 
-7.4 - "p7 - 4-d - system response (automatic).png"
+7.4 - "p7 - D4 - automatic system response.png"
 
-7.5 - "p7 - 5-d - consolidated diagram (Dh).png"
+7.5 - "p7 - D5 - consolidated diagrams.png"
 
 7.6 - "p7 - 6 - use case descriptions.txt"
 ____________________________________________________
