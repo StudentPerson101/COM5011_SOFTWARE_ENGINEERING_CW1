@@ -6,12 +6,12 @@ After downloading and extracting its contents, click on either the text file "RE
 
 You will then be asked:
 
-1. whether you want to create a desktop shortcut to the app
-2. whether you want to install Python3.12 (if you don't have it already)
-3. a Python venv will be auutomatically created within the app folder
-4. Django will be installed into that Python venv
-5. you'll be asked if you want to auto-start the server
-6. after clicking "y" (yes), enter http://127.0.0.1:8000/ into your preferred browser
+1. Whether you want to create a desktop shortcut to the app.
+2. Whether you want to install Python3.12 (if you don't have it already).
+3. A Python venv will be automatically created within the app folder.
+4. Django will be installed into that Python venv.
+5. You'll be asked if you want to auto-start the server.
+6. After clicking "y" (yes), enter http://127.0.0.1:8000/ into your preferred browser.
 
 To end the server, click CTRL+C in the terminal running the server.
 
